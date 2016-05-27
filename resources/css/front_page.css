@@ -1,0 +1,30 @@
+p {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 35px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+#nav{
+  background-color: #4CAF50;
+  border: 0px;
+}
+
+#navtext {
+  color: #FFF;
+}
+
+#carousel{
+  margin-top: -20px;
+  border: 0px;
+}
