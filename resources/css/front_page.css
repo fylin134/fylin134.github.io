@@ -18,6 +18,7 @@ img {
 #nav{
   background-color: #4CAF50;
   border: 0px;
+  margin-bottom: -1px;
 }
 
 #navtext {
@@ -25,6 +26,5 @@ img {
 }
 
 #carousel{
-  margin-top: -20px;
   border: 0px;
 }
