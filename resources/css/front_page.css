@@ -4,11 +4,6 @@ p {
   margin-bottom: 35px;
 }
 
-img {
-  display: block;
-  width: 100%;
-}
-
 #nav{
   background-color: #4CAF50;
   border: 0px;
@@ -22,3 +17,4 @@ img {
 #carousel{
   border: 0px;
 }
+
